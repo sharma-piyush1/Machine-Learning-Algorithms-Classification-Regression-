@@ -11,6 +11,7 @@ Each algorithm is implemented using both **Jupyter Notebook (.ipynb)** for step-
 
 ## 📂 Project Structure
 
+```bash
 Machine-Learning-Algorithms-Classification-Regression-
 │
 ├── Classification
