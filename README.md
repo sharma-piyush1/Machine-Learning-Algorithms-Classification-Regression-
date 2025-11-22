@@ -11,38 +11,38 @@ Each algorithm is implemented using both **Jupyter Notebook (.ipynb)** for step-
 
 ## 📂 Project Structure
 
-Machine Learning Algorithms
+Machine-Learning-Algorithms-Classification-Regression-
 │
 ├── Classification
-│ ├── Data.csv
-│ ├── logistic_regression.ipynb
-│ ├── logistic_regression.py
-│ ├── k_nearest_neighbors.ipynb
-│ ├── k_nearest_neighbors.py
-│ ├── support_vector_machine.ipynb
-│ ├── support_vector_machine.py
-│ ├── kernel_svm.ipynb
-│ ├── kernel_svm.py
-│ ├── naive_bayes.ipynb
-│ ├── naive_bayes.py
-│ ├── decision_tree_classification.ipynb
-│ ├── decision_tree_classification.py
-│ ├── random_forest_classification.ipynb
-│ ├── random_forest_classification.py
-│ └── .vscode/
+│   ├── Data.csv
+│   ├── logistic_regression.ipynb
+│   ├── logistic_regression.py
+│   ├── k_nearest_neighbors.ipynb
+│   ├── k_nearest_neighbors.py
+│   ├── support_vector_machine.ipynb
+│   ├── support_vector_machine.py
+│   ├── kernel_svm.ipynb
+│   ├── kernel_svm.py
+│   ├── naive_bayes.ipynb
+│   ├── naive_bayes.py
+│   ├── decision_tree_classification.ipynb
+│   ├── decision_tree_classification.py
+│   ├── random_forest_classification.ipynb
+│   ├── random_forest_classification.py
+│   └── .vscode/   # editor settings (optional)
 │
 └── Regression
-├── Data.csv
-├── multiple_linear_regression.ipynb
-├── multiple_linear_regression.py
-├── polynomial_regression.ipynb
-├── polynomial_regression.py
-├── support_vector_regression.ipynb
-├── support_vector_regression.py
-├── decision_tree_regression.ipynb
-├── decision_tree_regression.py
-├── random_forest_regression.ipynb
-└── random_forest_regression.py
+    ├── Data.csv
+    ├── multiple_linear_regression.ipynb
+    ├── multiple_linear_regression.py
+    ├── polynomial_regression.ipynb
+    ├── polynomial_regression.py
+    ├── support_vector_regression.ipynb
+    ├── support_vector_regression.py
+    ├── decision_tree_regression.ipynb
+    ├── decision_tree_regression.py
+    ├── random_forest_regression.ipynb
+    └── random_forest_regression.py
 
 
 ---
