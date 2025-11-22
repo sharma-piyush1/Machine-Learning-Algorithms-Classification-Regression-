@@ -86,7 +86,7 @@ numpy
 pandas
 matplotlib
 scikit-learn
-
+```
 🚀 How to Run
 Jupyter Notebook:
 jupyter notebook
