@@ -90,16 +90,18 @@ scikit-learn
 🚀 How to Run
 Jupyter Notebook:
 jupyter notebook
-# Open any .ipynb file from Classification or Regression folders
+
+Open any .ipynb file from Classification or Regression folders
 
 
 Python Script:
-# Example:
+Example:
 python Classification/logistic_regression.py
+
 python Regression/multiple_linear_regression.py
 
 
-📌 Purpose
+## 📌 Purpose
 
 This repository is designed for:
 
@@ -111,17 +113,17 @@ ML experimentation and practice
 
 Building foundational understanding for future deep learning/RAG/LLM work
 
-⚙️ Installation
+## ⚙️ Installation
 git clone https://github.com/sharma-piyush1/Machine-Learning-Algorithms-Classification-Regression-.git
 cd Machine-Learning-Algorithms-Classification-Regression-
 pip install -r requirements.txt
 
 
-🤝 Contributions
+## 🤝 Contributions
 
 Pull Requests and improvements are welcome.
 
-📜 License
+## 📜 License
 
 MIT License – Free to use and modify.
 
