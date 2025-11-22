@@ -30,7 +30,7 @@ Machine-Learning-Algorithms-Classification-Regression-
 │   ├── decision_tree_classification.py
 │   ├── random_forest_classification.ipynb
 │   ├── random_forest_classification.py
-│   └── .vscode/   # editor settings (optional)
+│   
 │
 └── Regression
     ├── Data.csv
